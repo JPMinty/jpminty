@@ -13,3 +13,5 @@ You can find me at the following 💬
 ## Sometimes I make commits, sometimes I make mistakes
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jpminty)]([https://github.com/LordDashMe/github-contribution-stats/](https://github-contribution-stats.vercel.app/api/?username=jpminty))
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpminty&layout=compact)
