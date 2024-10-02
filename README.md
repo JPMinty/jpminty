@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
 
-<!--
-**JPMinty/jpminty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me at the following 💬 
+- [https://www.jaiminton.com/](https://www.jaiminton.com/)
+- [Twitter/X](https://x.com/CyberRaiju)
+- [Mastodon](https://infosec.exchange/@CyberRaiju)
+- [YouTube](https://www.youtube.com/@cyberraiju/featured)
 
-Here are some ideas to get you started:
+## Here's a CTF challenge, good luck
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- XwkhWh9sd1BNcxIhUR9vdQJgZgM=
+
+## Sometimes I make commits, sometimes I make mistakes
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jpminty)]([https://github.com/LordDashMe/github-contribution-stats/](https://github-contribution-stats.vercel.app/api/?username=jpminty))
