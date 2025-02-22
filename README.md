@@ -7,6 +7,7 @@ You can find me at the following 💬
 - [Twitter/X](https://x.com/CyberRaiju)
 - [Mastodon](https://infosec.exchange/@CyberRaiju)
 - [YouTube](https://www.youtube.com/@cyberraiju/featured)
+- [BlueSky](https://bsky.app/profile/jaiminton.com)
 
 ## Here's a CTF challenge, good luck
 
