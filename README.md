@@ -1,5 +1,7 @@
 ## About me
 
+![Banner-New](https://github.com/user-attachments/assets/34c356d9-6cdf-483a-a531-db98947bce42)
+
 You can find me at the following 💬 
 - [https://www.jaiminton.com/](https://www.jaiminton.com/)
 - [Twitter/X](https://x.com/CyberRaiju)
